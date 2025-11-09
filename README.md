@@ -70,8 +70,8 @@ lib/
 
 ### 1️⃣ Clone the Repo
 ```bash
-git clone https://github.com/<your-username>/flutter_clean_getx_mvvm.git
-cd flutter_clean_getx_mvvm
+git clone https://github.com/abqamar/getx_structure.git
+cd getx_structure
 ```
 
 ## Install Dependencies
@@ -123,9 +123,6 @@ Get.find<LocalizationService>().updateLocale(Locale('ar', 'AE'));
 ## 🧑‍💻 Contributing
 Contributions are welcome!
 Please fork this repo, make your changes, and submit a pull request.
-
-## 📜 License
-This project is licensed under the MIT License — see the LICENSE
 
 ## 🌟 Acknowledgments
 - [GetX](https://pub.dev/packages/get) - by Jonny Borges
